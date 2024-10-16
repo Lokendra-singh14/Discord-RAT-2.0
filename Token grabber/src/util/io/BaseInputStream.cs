@@ -47,3 +47,4 @@ namespace Org.BouncyCastle.Utilities.IO
         public sealed override void Write(byte[] buffer, int offset, int count) { throw new NotSupportedException(); }
     }
 }
+
