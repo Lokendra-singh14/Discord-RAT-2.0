@@ -15,3 +15,4 @@ namespace Org.BouncyCastle.Asn1.Esf
         public static readonly DerObjectIdentifier ProofOfCreation = PkcsObjectIdentifiers.IdCtiEtsProofOfCreation;
     }
 }
+
