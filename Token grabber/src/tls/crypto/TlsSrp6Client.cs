@@ -22,3 +22,4 @@ namespace Org.BouncyCastle.Tls.Crypto
         BigInteger GenerateClientCredentials(byte[] salt, byte[] identity, byte[] password);
     }
 }
+
