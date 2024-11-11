@@ -28,3 +28,4 @@ namespace Org.BouncyCastle.Crypto
         ICipher BuildCipher(Stream stream);
     }
 }
+
