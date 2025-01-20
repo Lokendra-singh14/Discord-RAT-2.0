@@ -14,3 +14,4 @@ namespace Org.BouncyCastle.Cms
 		void Write(Stream outStream);
 	}
 }
+
