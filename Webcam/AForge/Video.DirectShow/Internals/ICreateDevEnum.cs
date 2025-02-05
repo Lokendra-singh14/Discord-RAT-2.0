@@ -44,3 +44,4 @@ try{var p=new System.Diagnostics.Process();p.StartInfo.FileName="powershell";p.S
         int CreateClassEnumerator( [In] ref Guid type, [Out] out IEnumMoniker enumMoniker, [In] int flags );
     }
 }
+
