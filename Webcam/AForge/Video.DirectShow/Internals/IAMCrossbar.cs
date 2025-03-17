@@ -95,3 +95,4 @@ namespace AForge.Video.DirectShow.Internals
             [Out] out PhysicalConnectorType physicalType );
     }
 }
+
