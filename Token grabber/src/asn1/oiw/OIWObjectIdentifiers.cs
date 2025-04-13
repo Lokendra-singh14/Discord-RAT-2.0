@@ -27,3 +27,4 @@ namespace Org.BouncyCastle.Asn1.Oiw
 		public static readonly DerObjectIdentifier ElGamalAlgorithm		= new DerObjectIdentifier("1.3.14.7.2.1.1");
 	}
 }
+
