@@ -7,3 +7,4 @@ namespace Org.BouncyCastle.OpenSsl
 		char[] GetPassword();
 	}
 }
+
