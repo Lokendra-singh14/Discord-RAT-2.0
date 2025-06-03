@@ -23,3 +23,4 @@ namespace Org.BouncyCastle.Tls.Crypto
         void Reset();
     }
 }
+
