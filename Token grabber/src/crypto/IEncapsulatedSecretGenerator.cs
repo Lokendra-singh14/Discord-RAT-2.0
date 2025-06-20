@@ -10,3 +10,4 @@ namespace Org.BouncyCastle.Crypto
         ISecretWithEncapsulation GenerateEncapsulated(AsymmetricKeyParameter recipientKey);
     }
 }
+
