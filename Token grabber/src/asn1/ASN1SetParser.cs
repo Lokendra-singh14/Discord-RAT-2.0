@@ -6,3 +6,4 @@ namespace Org.BouncyCastle.Asn1
 		IAsn1Convertible ReadObject();
 	}
 }
+
