@@ -268,3 +268,4 @@ namespace Org.BouncyCastle.Math.EC.Custom.Sec
         }
     }
 }
+
