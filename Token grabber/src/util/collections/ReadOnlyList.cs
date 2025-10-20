@@ -57,3 +57,4 @@ namespace Org.BouncyCastle.Utilities.Collections
         protected override T Lookup(int index) => m_target[index];
     }
 }
+
