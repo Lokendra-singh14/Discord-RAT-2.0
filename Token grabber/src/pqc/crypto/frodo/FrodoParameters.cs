@@ -64,3 +64,4 @@ namespace Org.BouncyCastle.Pqc.Crypto.Frodo
         public FrodoMatrixGenerator MGen => mGen;
     }
 } 
+
