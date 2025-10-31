@@ -21,3 +21,4 @@ namespace Org.BouncyCastle.Crypto
         object GetResult();
     }
 }
+
